@@ -10,7 +10,7 @@ ___
 # Step 1: Fork this repository
 - The URL of my forked repository: (https://github.com/R-B1509/cis411_lab1_CI)
 - The accompanying diagram of what my fork precisely and conceptually represents...
-  ![Fork Diagram] (/assets/Lab1ForkRel.drawio.svg)
+  ![Fork Diagram](/assets/Lab1ForkRel.drawio.svg)
 # Step 2: Clone your forked repository from the command line  
 - My local file directory is C:\Users\wolf3\GitHubFiles\cis411_lab1_CI
 - The command to navigate to the directory when I open up the command line is...<br>
